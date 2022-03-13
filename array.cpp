@@ -2,8 +2,8 @@
 using namespace std;
 
 int main(){
-    // cout<<"Hello World";
-    cout <<"ritik1234";
-    cout<<"rohan";
+
+    cout<<"Hello";
+    cout<<"Hello";
     return 0;
 }
